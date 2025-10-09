@@ -43,6 +43,7 @@ public class SwitchCase {
 		case "Contabilidad":
 			System.out.println("Ingreso al modulo de Contabilidad");
 			break;
+			//localizador
 		case "Presupuesto":
 			System.out.println("Ingreso al modulo de Presupuesto");
 			break;
