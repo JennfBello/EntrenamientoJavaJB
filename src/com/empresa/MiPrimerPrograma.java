@@ -8,6 +8,7 @@ public class MiPrimerPrograma {//TODO PROYECTO DEBE ESTAR DENTRO DE LAS LLAVES
 		// VOID- PORQUE NO DEVUELVE NINGUN VALOR
 		// MAIN JVM BUSCA PARA EJECUTAR EL PROGRAMA
 		//TTring[] AAargs  ES UN ARRAY DE ARGUMENTOS QUE SE PUEDEN PASAR AL PROGRAMA 
+		//voud solo me devuelve lo que yo  le estoy diciendo que imprima 
 
 		System.out.println("Este es mi primer programa JB");
 	}
