@@ -1,0 +1,15 @@
+package com.empresa;
+
+public class MiPrimerPrograma {//TODO PROYECTO DEBE ESTAR DENTRO DE LAS LLAVES
+
+	public static void main(String[] args) {
+		// PUBLIC- ES PUBICO/ACCESIBLE DESDE CUALQUIER PARTE DEL PROGRAMA
+		//STATIC - NO REQUIERE UNA INSTANCIA DE LA CLASE PARA EJECUTARSE
+		// VOID- PORQUE NO DEVUELVE NINGUN VALOR
+		// MAIN JVM BUSCA PARA EJECUTAR EL PROGRAMA
+		//TTring[] AAargs  ES UN ARRAY DE ARGUMENTOS QUE SE PUEDEN PASAR AL PROGRAMA 
+
+		System.out.println("Este es mi primer programa JB");
+	}
+
+}
