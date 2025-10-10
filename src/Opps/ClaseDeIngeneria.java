@@ -22,7 +22,7 @@ public class ClaseDeIngeneria implements intrEstudiante{
 	
 	//metodo propios de la clase
 	public void obtenerUniversidad(){
-		System.out.println("La universidad es: "+ intrEstudiante.univerdidad);
+		System.out.println("La universidad es: "+ univerdidad);
 	}
 		
 
@@ -42,6 +42,12 @@ public class ClaseDeIngeneria implements intrEstudiante{
 		medObj.ObtenerGrado();
 		medObj.obtenerNumeroDeEstudiantes();
 		medObj.obtenerUniversidad();
+		
+	}
+
+
+	public void obtenerNombreInterface() {
+		
 		
 	}
  }

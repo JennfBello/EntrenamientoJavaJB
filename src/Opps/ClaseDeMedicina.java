@@ -27,4 +27,10 @@ public class ClaseDeMedicina implements intrEstudiante{
 	{
 		System.out.println("La univerdad es: Universidad de Caldas");
 	}
+
+
+	public void obtenerNombreInterface() {
+		
+		
+	}
 }

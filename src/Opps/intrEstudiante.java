@@ -2,7 +2,7 @@
 
 package Opps;
 
-public interface intrEstudiante {
+public interface intrEstudiante extends PadreDeEstudiante {
 	
 	public static final String  univerdidad="Universidad de Manizales";
 	
