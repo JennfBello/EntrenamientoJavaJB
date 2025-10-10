@@ -3,7 +3,7 @@ package com.empresa;
 public class Perro {
 	
 	//ATRIOBUROS QUE PERTENECEN A LA CLASE
-	String nombre="Baldo";
+	String nombre="Baldo";//atributo baldo
 	String raza="Criollo";
 	int altura=4;
 	
@@ -16,7 +16,7 @@ public class Perro {
 	public static void main(String[] args) {
 		
 		//CREACION DE OBJETO
-		
+						//constructor
 		Perro perroObj = new Perro();
 		System.out.println(perroObj.altura);
 		perroObj.ladrar();
