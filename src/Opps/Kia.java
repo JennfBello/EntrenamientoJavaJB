@@ -1,3 +1,5 @@
+// herencia jerargica
+
 package Opps;
 
 public class Kia extends Mazda {

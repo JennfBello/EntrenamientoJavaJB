@@ -1,4 +1,5 @@
 // esto es un caso de herencia el metodo run es que heredo
+//herencia multinivel
 package Opps;
 
 // extender la clase carro lo que quiere decir es que puede utilizar los metodos 

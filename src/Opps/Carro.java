@@ -1,3 +1,4 @@
+// herencia single
 package Opps;
 
 public class Carro {
