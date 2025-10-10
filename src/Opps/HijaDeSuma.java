@@ -1,3 +1,4 @@
+//polimorfismo por compilacion 
 package Opps;
 
 public class HijaDeSuma extends Suma{
