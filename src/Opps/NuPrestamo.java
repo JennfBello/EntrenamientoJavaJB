@@ -6,7 +6,7 @@ public class NuPrestamo extends BancoPrestamo {
 		
 		NuPrestamo PrestamoObj =new NuPrestamo();
 		
-		//lo que se envia por el set se muestra por el get
+		////que se envia por el set se muestra por el get
 		PrestamoObj.setNombre("Juan");
 		PrestamoObj.setEdad(70);
 		PrestamoObj.setCantidad(22000);
