@@ -31,8 +31,8 @@ public class PasarArregloAmetodo {
 		
 		//-------------****************************--------------//
 		
-		int arregloCuarto[] = arrObj.getArreglo();
-		System.out.println(arregloCuarto[2]);
+		int arregloCuarto[] = arrObj.getArreglo();//se le esta indicando que posiscion quiero que me muestre
+		System.out.println(arregloCuarto[2]); // en este caso es el numero 6
 	}
 
 }
